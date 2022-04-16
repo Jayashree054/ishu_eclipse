@@ -1,0 +1,12 @@
+package com.multilevel;
+
+public class Class_B extends Class_A {
+	private void name() {
+		System.out.println("ramu");
+	}
+
+	private void subject() {
+		System.out.println("maths");
+	}
+
+}

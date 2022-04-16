@@ -1,0 +1,13 @@
+package com.constructor;
+
+public class Memory_Type {
+public static void main(String[] args) {
+	
+	System.out.println("**************Immutale*************");
+	
+	
+	String s = "Greens";
+	System.out.println(System.identityHashCode(s));
+	
+}
+}

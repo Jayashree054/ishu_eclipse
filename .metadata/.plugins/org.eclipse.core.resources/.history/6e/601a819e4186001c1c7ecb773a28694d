@@ -1,0 +1,29 @@
+package com.control_statement;
+
+import java.util.Scanner;
+
+public class Factorial {
+
+	public static void main(String[] args) {
+
+		int fact = 1;
+		int i = 1;
+
+		Scanner s = new Scanner(System.in);
+
+		int num = s.nextInt();
+
+		System.out.println("Enter the Number :" + num);
+
+		while (i <= num) {
+
+			fact = fact * i;
+			i++;
+
+		}
+
+		System.out.println("Factorial :" + fact);
+
+	}
+
+}

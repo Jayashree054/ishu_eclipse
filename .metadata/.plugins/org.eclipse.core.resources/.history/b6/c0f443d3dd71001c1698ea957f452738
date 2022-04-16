@@ -1,0 +1,10 @@
+package com.interface1;
+
+public class Class_B {
+	
+	private void overall() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,37 @@
+package com.interface1;
+
+public class Class_B implements Type_Interface , Class_A{
+
+	private void overall() {
+		
+		System.out.println("overall");
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+	@Override
+	public void password() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void location() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void bank() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void ifsc() {
+		// TODO Auto-generated method stub
+		
+	}
+}

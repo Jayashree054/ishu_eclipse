@@ -1,0 +1,15 @@
+package com.single;
+
+public class Class_A {
+	
+	private void company() {
+	
+	}
+
+	private void course() {
+
+	}
+	private void version() {
+
+	}
+}

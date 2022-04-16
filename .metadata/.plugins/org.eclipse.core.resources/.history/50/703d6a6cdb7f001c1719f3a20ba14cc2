@@ -1,0 +1,15 @@
+package com.String;
+
+public class String_Type {
+
+	public static void main(String[] args) {
+
+		String s = " WelCoMe To JAVa ";
+		
+		
+		int length = s.length();
+		System.out.println("length : "+length);
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.multilevel;
+
+public class Class_A {
+	
+	private void name() {
+		// TODO Auto-generated method stub
+
+	}
+	 private void subject() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

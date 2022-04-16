@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Sample_demo.java&apos; to &apos;com.demo.Sample_Program.java&apos;&#x0D;&#x0A;- Original project: &apos;Java_Code&apos;&#x0D;&#x0A;- Destination element: &apos;com.demo.Sample_Program.java&apos;&#x0D;&#x0A;- Original element: &apos;org.demo.Sample_demo.java&apos;" description="Copy compilation unit" destination="=Java_7AM_Batch/src&lt;com.demo{Sample_Program.java" element1="/src&lt;org.demo{Sample_demo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639716492070" units="1" version="1.0"/>
+</session>

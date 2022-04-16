@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Baseclass.java&apos; to &apos;Maven/src/test/java/com.Maven&apos;&#x0D;&#x0A;- Original project: &apos;Java&apos;&#x0D;&#x0A;- Destination element: &apos;Maven/src/test/java/com.Maven&apos;&#x0D;&#x0A;- Original element: &apos;com.java.Baseclass.java&apos;" description="Copy compilation unit" destination="=Maven/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.Maven" element1="/src&lt;com.java{Baseclass.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1636448869287" units="1" version="1.0"/>
+</session>

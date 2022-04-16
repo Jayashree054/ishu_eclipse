@@ -1,0 +1,14 @@
+package com.interface1;
+
+public class Class_A {
+
+	private void password() {
+		// TODO Auto-generated method stub
+
+	}
+	private void location() {
+		// TODO Auto-generated method stub
+
+	}
+	
+}

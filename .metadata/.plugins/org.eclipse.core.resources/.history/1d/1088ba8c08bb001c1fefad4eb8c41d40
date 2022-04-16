@@ -1,0 +1,39 @@
+package com.practice;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+public class Test_Practice {
+
+	public static void main(String[] args){
+
+		
+		
+			String s = "of the people by the people for the people";
+
+			String[] word = s.split(" ");
+
+		//	System.out.println(word);
+			
+			Map<String,Integer> map = new LinkedHashMap<String,Integer>();
+
+			for( String words : word)
+			{
+			if(map.containsKey(words)){
+
+			Integer value =map.get(words);
+			map.put(words,value+1);
+
+			}else{
+			map.put(words,1);
+			}
+			System.out.println(map);
+			}
+
+
+			
+		
+		
+	}
+
+}

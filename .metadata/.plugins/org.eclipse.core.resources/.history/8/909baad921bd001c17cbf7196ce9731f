@@ -1,0 +1,12 @@
+package com.multilevel;
+
+public class Class_A {
+	
+	private void name() {
+System.out.println("raju");
+	}
+	 private void subject() {
+System.out.println("english");
+	}
+
+}

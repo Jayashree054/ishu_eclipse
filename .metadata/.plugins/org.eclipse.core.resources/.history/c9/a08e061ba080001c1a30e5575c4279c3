@@ -1,0 +1,24 @@
+package com.chain;
+
+public class Class_C {
+
+	public void subject() {
+		System.out.println("social");
+	}
+
+	public void name() {
+		System.out.println("ramu");
+
+	}
+
+	public void age() {
+		System.out.println(25);
+
+	}
+
+	
+	
+	public static void main(String[] args) {
+
+	}
+}

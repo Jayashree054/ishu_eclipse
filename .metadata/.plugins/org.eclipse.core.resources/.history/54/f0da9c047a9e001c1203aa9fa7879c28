@@ -1,0 +1,15 @@
+package com.array;
+
+public class Array_Type {
+public static void main(String[] args) {
+	
+	int a[] = new int[5];
+	
+	a[0]=67;
+	a[1]=32;
+	a[2]=45;
+	a[3]=57;
+	a[4]=78;
+	
+}
+}

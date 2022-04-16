@@ -1,0 +1,24 @@
+package com.String;
+
+public class String_Type {
+
+	public static void main(String[] args) {
+
+		String s = " WelCoMe To JAVa ";
+
+		// ctrl+2 , L-->return type
+		int length = s.length();
+		System.out.println("length : " + length);
+
+		boolean equals = s.equals(" WelCome To JAVa ");
+		System.out.println("equals : " + equals);
+
+		boolean equalsIgnoreCase = s.equalsIgnoreCase(" WelCome To JAVa ");
+		System.out.println("equalsIgnoreCase : " + equalsIgnoreCase);
+		
+		boolean startsWith = s.startsWith(" w");
+		System.out.println("startsWith : "+startsWith);
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.chain;
+
+public class Class_B {
+	public void subject() {
+		System.out.println("maths");
+	}
+
+	public void name() {
+		System.out.println("raju");
+
+	}
+
+	public void age() {
+		System.out.println(24);
+
+	}
+
+
+}

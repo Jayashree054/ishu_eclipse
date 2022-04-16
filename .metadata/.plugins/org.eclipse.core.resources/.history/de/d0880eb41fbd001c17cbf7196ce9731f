@@ -1,0 +1,15 @@
+package com.single;
+
+public class Class_A {
+	
+	private void company() {
+	System.out.println("greens");
+	}
+
+	private void course() {
+System.out.println("java");
+	}
+	private void version() {
+System.out.println(1.8F);
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Java_Jaya8AM&apos;&#x0D;&#x0A;- Original project: &apos;Java_Jaya8AM&apos;&#x0D;&#x0A;- Original element: &apos;Java_Jaya8AM/src/com.string_method&apos;" description="Delete element" element1="/src&lt;com.string_method" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1643710783148" subPackages="false" version="1.0"/>
+</session>

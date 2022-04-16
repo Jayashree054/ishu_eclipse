@@ -1,0 +1,14 @@
+package com.sample;
+
+public class Sample_Pgm {
+	
+	
+	private void company() { // sign part
+		
+		System.out.println();
+	}
+
+	public static void main(String[] args) {
+		
+	}
+}

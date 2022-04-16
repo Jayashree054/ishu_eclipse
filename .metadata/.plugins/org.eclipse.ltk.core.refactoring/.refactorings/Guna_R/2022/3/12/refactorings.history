@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.Collections&apos; to &apos;org.Sample&apos;&#x0D;&#x0A;- Original project: &apos;Guna_R&apos;&#x0D;&#x0A;- Original element: &apos;Guna_R/src/org.Collections&apos;&#x0D;&#x0A;- Renamed element: &apos;Guna_R/src/org.Sample&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.Collections&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.Collections" name="org.Sample" qualified="false" references="true" stamp="1647348191197" textual="false" version="1.0"/>
+</session>

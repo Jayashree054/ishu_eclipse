@@ -1,0 +1,20 @@
+package com.practice;
+
+public class Test_Practice {
+
+	public static void main(String[] args){
+
+		
+		
+			String s = "of the people by the people for the people";
+
+			String[] word = s.split("");
+
+			System.out.println(word);
+
+			
+		
+		
+	}
+
+}

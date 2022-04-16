@@ -1,0 +1,17 @@
+package com.sample;
+
+public class Sample_Pgm {
+
+	private void company() { // sign part
+
+		System.out.println("greens"); // imp part
+	}
+
+	public static void main(String[] args) { // main method
+
+		Sample_Pgm s = new Sample_Pgm(); // object syntax
+
+		s.company();// method calling
+
+	}
+}

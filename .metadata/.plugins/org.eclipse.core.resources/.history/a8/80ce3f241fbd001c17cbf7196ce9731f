@@ -1,0 +1,9 @@
+package com.single;
+
+public class Class_B {
+	
+	private void overall() {
+	System.out.println("overall method");
+	}
+
+}

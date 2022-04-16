@@ -1,0 +1,19 @@
+package com.multilevel;
+
+public class Class_C extends Class_B{
+	
+	private void name() {
+		System.out.println("ajay");
+	}
+
+	public void subject() {
+		System.out.println("maths");
+	}
+
+	
+	public static void main(String[] args) {
+		Class_C c = new Class_C();
+	
+	
+	}
+}

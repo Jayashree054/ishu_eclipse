@@ -1,0 +1,12 @@
+package com.constructor;
+
+public class Type_Casting {
+	public static void main(String[] args) {
+
+		int a = 10; // 4 byte
+		long d = a; // 8 byte
+		System.out.println(d);
+
+	}
+
+}
